@@ -1,0 +1,9 @@
+It's simple.
+
+1. irb
+2. require "gitr"
+3. tag_to_gitr = "v1.0"
+4. Gitr.done!( tag_to_gitr )
+
+
+Gitr-Done! will git rid of tigs that match yer tag_to_gitr var. Yip.
